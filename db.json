@@ -1,0 +1,88 @@
+{
+  "foods": [
+    {
+      "foodName": "европейская кухня",
+      "foodInfo": "Салат из языка с орехами и зеленой фасолью",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20150810/be0f6654.jpg",
+      "foodPrice": "350с",
+      "id": 1
+    },
+    {
+      "foodName": "европейская кухня",
+      "foodInfo": "Лопатка ягненка с розмарином и тимьяном на барбекю",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20190410/bb39a05c.jpg",
+      "foodPrice": "750с",
+      "id": 2
+    },
+    {
+      "foodName": "европейская кухня",
+      "foodInfo": "Корсиканский суп с полбой",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20171113/bdc16d2b.jpg",
+      "foodPrice": "200с",
+      "id": 3
+    },
+    {
+      "foodName": "европейская кухня",
+      "foodInfo": "Вальдорфский салат с виноградом от Джейми Оливера",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20220330/baeef3a5.jpg",
+      "foodPrice": "400с",
+      "id": 4
+    },
+    {
+      "foodName": "грузинская кухня",
+      "foodInfo": "Суп Харчо по-грузински",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20201117/bd951914.jpg",
+      "foodPrice": "300с",
+      "id": 5
+    },
+    {
+      "foodName": "грузинская кухня",
+      "foodInfo": "Хачапури на молоке в духовке",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20230615/b5cb6335.jpg",
+      "foodPrice": "600с",
+      "id": 6
+    },
+    {
+      "foodName": "грузинская кухня",
+      "foodInfo": "Чакапули из ягнятины",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20200527/bd95a25b.jpg",
+      "foodPrice": "1000с",
+      "id": 7
+    },
+    {
+      "foodName": "грузинская кухня",
+      "foodInfo": "Аджапсандали по-грузински",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20170711/bcc070ac.jpg",
+      "foodPrice": "500с",
+      "id": 8
+    },
+    {
+      "foodName": "азиатская кухня",
+      "foodInfo": "Острые маринованные огурцы с соевым соусом и чили",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20230412/b120780c.jpg",
+      "foodPrice": "700с",
+      "id": 9
+    },
+    {
+      "foodName": "азиатская кухня",
+      "foodInfo": "Спринг-роллы с крабами и курицей",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20191227/b619cba4.jpg",
+      "foodPrice": "500с",
+      "id": 10
+    },
+    {
+      "foodName": "азиатская кухня",
+      "foodInfo": "Лапша с водорослями и мидиями",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20150824/bff242b0.jpg",
+      "foodPrice": "200с",
+      "id": 11
+    },
+    {
+      "foodName": "азиатская кухня",
+      "foodInfo": "Утка в азиатском стиле",
+      "foodImage": "https://www.gastronom.ru/binfiles/images/20191120/b373fc92.jpg",
+      "foodPrice": "450с",
+      "id": 12
+    }
+  ]
+}
